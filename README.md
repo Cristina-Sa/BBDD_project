@@ -8,7 +8,7 @@ In this repository we will create a relational SQL database generated according 
 
 - The fields NOMBRE, APELLIDO, EMAIL are Varchar(20).
 
-It also includes same examples.
+It also includes some examples.
 
 ![Example_table_SQL](https://github.com/Cristina-Sa/BBDD_project/blob/main/Example_table_SQL.jpeg)
 
